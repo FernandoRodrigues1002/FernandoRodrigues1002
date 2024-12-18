@@ -1,7 +1,7 @@
 ## Bem-vindo!
 
 - 🔭 Buscando um emprego na área
-- 🌱 Estudando de tudo um pouco
+- 👨‍💻 Estudando de tudo um pouco
 - 📫 fernanrods1002@gmail.com
 
 <div>
