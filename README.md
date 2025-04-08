@@ -22,8 +22,8 @@
 
 <div> 
   <h2>Contatos</h2>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fernanrods1002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=fernanrods1002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-rodrigues-del-franco-65b94b20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send/?phone=5511997604247&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://portfolio-fernando-rodrigues.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
   
